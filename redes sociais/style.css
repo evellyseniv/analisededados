@@ -17,3 +17,15 @@ font-size: 2rem;
 color: aliceblue;
 font-weight: 700;
 }
+
+nav {
+display: flex;
+justify-content: center;
+font-family: 400;
+}
+
+nav a {
+text-decoration: none;
+color: antiquewhite;
+margin: 0rem 2rem 3rem 0em;
+{
