@@ -1,7 +1,19 @@
-body {
+body {  
+
     background-color: var(-bg-color);
     color: azure;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 100vh;
     margin: 0;
+}
+
+header{
+background-color: aqua;
+text-align: center;
+}
+
+h1 {
+font-size: 2rem;
+color: aliceblue;
+font-weight: 700;
 }
